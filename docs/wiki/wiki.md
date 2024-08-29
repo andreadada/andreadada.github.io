@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Structory
+title: Wiki
 nav_order: 1
 ---
 
-# Benvenuto nella documentazione di Structory
-Qui troverai tutte le informazioni necessarie per utilizzare il plugin Structory.
+# Welcome to Dada's Wiki
