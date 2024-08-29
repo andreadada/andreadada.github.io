@@ -1,6 +1,6 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
-remote-theme: just-the-docs/just-the-docs
+theme: ust-the-docs
 
 url: https:/andreadada.github.io
 
