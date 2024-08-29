@@ -9,8 +9,3 @@ aux_links:
 
 
 nav_enabled: true
-
-# Definisci le sezioni di navigazione
-nav:
-  - title: "Structory"
-    url: "/structory/"
