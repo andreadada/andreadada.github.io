@@ -6,3 +6,11 @@ url: https:/andreadada.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+nav_enabled: true
+
+# Definisci le sezioni di navigazione
+nav:
+  - title: "Structory"
+    url: "/structory/"
