@@ -12,11 +12,11 @@ A Layout is composed of recipe-slots, levels and build sections.
 
 
 
-| Parameter    | Type             | Required | Default |
-|:-------------|:-----------------|:---------|:-------:|
-| recipe-slots | RecipeSlotLayout | false    |  empty  |
-| levels       | Set<Level>       | false    |  empty  |
-| build        | Set<Builder>     | false    |  empty  |
+| Parameter    | Type                                                         | Required | Default |
+|:-------------|:-------------------------------------------------------------|:---------|:-------:|
+| recipe-slots | RecipeSlotLayout                                             | false    |  empty  |
+| levels       | Set of [Levels]({{site.baseurl}}/wiki/structory/level).      | false    |  empty  |
+| build        | Set of [Builders]({{site.baseurl}}/wiki/structory/builders). | false    |  empty  |
 
 
 | Parameter    | Description                                                                    |
