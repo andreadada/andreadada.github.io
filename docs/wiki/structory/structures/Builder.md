@@ -25,7 +25,7 @@ material parameter must be a valid value accepted by Spigot's Material
 offset must be formatted as "X X X"  or "X.X X.YY X.ZZZ" X, Y and Z must be numbers
 
 
-# PlaceBuilder
+## PlaceBuilder
 
 
 | Parameter | Type   | Required | Value              |
@@ -45,7 +45,9 @@ block0:
 ```
 </details>
 
-# HeadBuilder
+* * *
+
+## HeadBuilder
 
 Special case of PlaceBuilder
 
@@ -68,7 +70,9 @@ block0:
 ```
 </details>
 
-# DestroyBuilder
+* * *
+
+## DestroyBuilder
 
 | Parameter | Type   | Required | Value          |
 |:----------|--------|----------|:---------------|
@@ -85,3 +89,5 @@ block0:
     offset: "0 0 0"
 ```
 </details>
+
+* * *
