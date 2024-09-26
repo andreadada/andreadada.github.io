@@ -11,24 +11,16 @@ In a single file you can define more structures.
 Structures must have a key and a name. No need to worry about the key since it is used the main node where you define a new structure.
 
 
-| Parameter   | Type     | Required | Default |
-|:------------|:---------|:---------|:-------:|
-| name        | String   | true     |    *    |
-| check-block | Material | false    |  null   |
-| orientation | Boolean  | false    |  false  |
-| options     | Options  | false    |  empty  |
-| layout      | Layout   | false    |  empty  |
+| Parameter   | Type     | Description                                                                                                           | Required | Default |
+|:------------|:---------|:----------------------------------------------------------------------------------------------------------------------|:---------|:-------:|
+| name        | String   | Structure's display name                                                                                              | true     |    *    |
+| check-block | Material | Block to check to activate the structure                                                                              | false    |  null   |
+| orientation | Boolean  | If the structure is symmetric or not, if true, there will be a check along each direction (NORTH, SOUTH, EAST, WEST)  | false    |  false  |
+| options     | Options  | Options values, check [Options]({{site.baseurl}}/docs/wiki/structory/options).                                        | false    |  empty  |
+| layout      | Layout   | Layout values, check [Layout]({{site.baseurl}}/docs/wiki/structory/structures/layout.html).                           | false    |  empty  |
 
 As you can see, only the name parameter is mandatory
 
-
-| Parameter   | Description                                                                                                          |
-|:------------|:---------------------------------------------------------------------------------------------------------------------|
-| name        | Structure's display name                                                                                             |
-| check-block | Block to check to activate the structure                                                                             |
-| orientation | If the structure is symmetric or not, if true, there will be a check along each direction (NORTH, SOUTH, EAST, WEST) |
-| options     | Options values, check [Options]({{site.baseurl}}/docs/wiki/structory/options).                                       |
-| layout      | Layout values, check [Layout]({{site.baseurl}}/docs/wiki/structory/structures/layout.html).                                          |
 
 
 
