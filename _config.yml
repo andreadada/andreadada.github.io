@@ -2,10 +2,12 @@ title: Dada's Site
 description: Dada public website
 theme: just-the-docs
 
-url: https:/andreadada.github.io
+url: https:/andreadada.github.io/wiki
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/andreadada.github.io/wiki
+plugins:
+  - jekyll-default-layout
 
 defaults:
   -
