@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structory
+title: Structure
 parent: Structory
 grand_parent: Wiki
 ---
