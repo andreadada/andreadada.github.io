@@ -21,8 +21,12 @@ type: <BUILDERTYPE>
 #others params
 ```
 
-material parameter must be a valid value accepted by Spigot's Material
-offset must be formatted as "X X X"  or "X.X X.YY X.ZZZ" X, Y and Z must be numbers
+> material parameter must be a valid value accepted by Spigot's Material
+ 
+> offset must be formatted as "X X X"  or "X.X X.YY X.ZZZ" X, Y and Z must be numbers
+
+
+
 
 
 ## PlaceBuilder
