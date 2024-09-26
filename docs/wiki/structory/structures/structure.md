@@ -11,6 +11,28 @@ In a single file you can define more structures.
 Structures must have a key and a name. No need to worry about the key since it is used the main node where you define a new structure.
 
 
+| Parameter   | Type     | Required | Default |
+|:------------|:---------|:---------|:-------:|
+| name        | String   | true     |    *    |
+| check-block | Material | false    |  null   |
+| orientation | Boolean  | false    |  false  |
+| options     | Options  | false    |  empty  |
+| layout      | Layout   | false    |  empty  |
+
+As you can see, only the name parameter is mandatory
+
+
+| Parameter   | Description                                                                                                          |
+|:------------|:---------------------------------------------------------------------------------------------------------------------|
+| name        | Structure's display name                                                                                             |
+| check-block | Block to check to activate the structure                                                                             |
+| orientation | If the structure is symmetric or not, if true, there will be a check along each direction (NORTH, SOUTH, EAST, WEST) |
+| options     | Options values, check [Options]({{site.baseurl}}/wiki/structory/options).                                            |
+| layout      | Layout values, check [Layout]({{site.baseurl}}/wiki/structory/layout).                                               |
+
+
+
+Example of a structure.
 ```yaml
 elder_altar:
   name: "Elder Altar"
