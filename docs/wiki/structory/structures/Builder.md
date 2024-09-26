@@ -14,10 +14,10 @@ back_to_top_text: "Back to top"
 
 A builder is an entity that place/destroy blocks when a structure is created.
 
-#PlaceBuilder
+# PlaceBuilder
 
 
-#HeadBuilder
+# HeadBuilder
 
 
-#DestroyBuilder
+# DestroyBuilder
