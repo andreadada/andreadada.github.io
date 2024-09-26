@@ -32,7 +32,8 @@ As you can see, only the name parameter is mandatory
 
 
 
-Example of a structure.
+
+Example file of a structure.
 ```yaml
 elder_altar:
   name: "Elder Altar"
