@@ -28,7 +28,7 @@ As you can see, only the name parameter is mandatory
 | check-block | Block to check to activate the structure                                                                             |
 | orientation | If the structure is symmetric or not, if true, there will be a check along each direction (NORTH, SOUTH, EAST, WEST) |
 | options     | Options values, check [Options]({{site.baseurl}}/docs/wiki/structory/options).                                       |
-| layout      | Layout values, check [Layout]({{site.baseurl}}/docs/wiki/structory/layout).                                          |
+| layout      | Layout values, check [Layout]({{site.baseurl}}/docs/wiki/structory/structures/layout.html).                                          |
 
 
 
