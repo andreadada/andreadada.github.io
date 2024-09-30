@@ -15,7 +15,6 @@ Options are objects that implements features to a structure.
 They are defined in the options section in a structure section.
 
 
-
 | Option         | Key      |  Type   |
 |:---------------|----------|:-------:|
 | CraftingOption | crafting |  FREE   |
