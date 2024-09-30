@@ -16,14 +16,14 @@ They are defined in the options section in a structure section.
 
 
 
-| Option         | Key      | Type | Description |
-|:---------------|----------|:----:|:-----------:|
-| CraftingOption | crafting |  🔓  |    TODO     |
-| FireworkOption | firework |  🔓  |    TODO     |
-| NotifyOption   | notify   |  🔓  |    TODO     |
-| ParticleOption | particle |  🔓  |    TODO     |
-| CommandOption  | command  |  🔒  |    TODO     |
-| DataOption     | data     |  🔒  |    TODO     |
+| Option         | Key      |  Type   | Description |
+|:---------------|----------|:-------:|:-----------:|
+| CraftingOption | crafting |  FREE   |    TODO     |
+| FireworkOption | firework |  FREE   |    TODO     |
+| NotifyOption   | notify   |  FREE   |    TODO     |
+| ParticleOption | particle |  FREE   |    TODO     |
+| CommandOption  | command  | PREMIUM |    TODO     |
+| DataOption     | data     | PREMIUM |    TODO     |
 
 
 example:
