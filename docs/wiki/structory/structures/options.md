@@ -16,10 +16,17 @@ They are defined in the options section in a structure section.
 
 
 
+| Option         | Key      | Type                             | Description |
+|:---------------|----------|----------------------------------|:-----------:|
+| CraftingOption | crafting | true                             |    TODO     |
+| FireworkOption | firework | true                             |    TODO     |
+| NotifyOption   | notify   | false                            |    TODO     |
+| ParticleOption | particle | false                            |    TODO     |
+| CommandOption  | command  | PREMIUM{: .label .label-yellow } |    TODO     |
+| DataOption     | data     | PREMIUM{: .label .label-yellow } |    TODO     |
 
 
 example:
-
 ```yaml
 structurekey:
   name: "...."
