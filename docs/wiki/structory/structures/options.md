@@ -12,3 +12,21 @@ nav_order: 3
 
 Options are objects that implements features to a structure.
 
+They are defined in the options section in a structure section.
+
+
+
+
+
+example:
+
+```yaml
+structurekey:
+  name: "...."
+  #others stuff
+  options:
+    optionkeyone:
+      #stuff
+    optionkeytwo:
+      #stuff
+```
