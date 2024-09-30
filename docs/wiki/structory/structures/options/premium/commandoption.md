@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CommandOption - PREMIUM
+title: CommandOption 🔒
 parent: Options
 grand_parent: Structory
 back_to_top: true

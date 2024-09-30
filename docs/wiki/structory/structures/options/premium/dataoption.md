@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DataOption - PREMIUM
+title: DataOption 🔒
 parent: Options
 grand_parent: Structory
 back_to_top: true
