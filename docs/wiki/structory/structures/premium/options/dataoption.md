@@ -1,0 +1,20 @@
+---
+layout: default
+title: DataOption 🔒 WIP
+parent: Options
+grand_parent: Premium
+back_to_top: true
+back_to_top_text: "Back to top"
+nav_order: 4.3
+---
+
+
+PREMIUM
+{: .label .label-yellow }
+
+
+W.I.P
+{: .label .label-blue }
+
+
+With this option you can manipulate instance's data and owner's when a new instance of a specific structure is created
