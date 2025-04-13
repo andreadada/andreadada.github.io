@@ -3,6 +3,7 @@ layout: default
 title: Direction
 parent: Premium
 grand_parent: Structory
+nav_order: 4
 ---
 
 
