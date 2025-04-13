@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DataOption 🔒
+title: DataOption 🔒 WIP
 parent: Options
 grand_parent: Structory
 back_to_top: true
@@ -12,6 +12,9 @@ nav_order: 3.2
 PREMIUM
 {: .label .label-yellow }
 
+
+W.I.P
+{: .label .label-blue }
 
 
 With this option you can manipulate instance's data and owner's when a new instance of a specific structure is created
