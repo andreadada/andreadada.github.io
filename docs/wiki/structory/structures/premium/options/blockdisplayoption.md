@@ -12,10 +12,10 @@ With this Option you can display custom block display when a structure is create
 
 
 
-| Key       |                                          Type                                           |                         Description                         |
-|:----------|:---------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
-| key       | [Direction]({{site.baseurl}}/docs/wiki/structory/structures/premium/blockdisplay.html). |          This is the block display that will spawn          |
-| direction |  [Direction]({{site.baseurl}}/docs/wiki/structory/structures/premium/direction.html).   | The direction that the Block Display will face when spawned |
+| Key       |                                            Type                                            |                         Description                         |
+|:----------|:------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| key       | [BlockDisplay]({{site.baseurl}}/docs/wiki/structory/structures/premium/blockdisplay.html). |          This is the block display that will spawn          |
+| direction |    [Direction]({{site.baseurl}}/docs/wiki/structory/structures/premium/direction.html).    | The direction that the Block Display will face when spawned |
 
 example:
 ```yaml
