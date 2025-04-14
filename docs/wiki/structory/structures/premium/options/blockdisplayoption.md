@@ -8,7 +8,7 @@ back_to_top_text: "Back to top"
 nav_order: 4.1
 ---
 
-With this Option you can display custom block display when a structure is created.
+With this Option you can display custom block display when a structure is created. 
 
 
 
