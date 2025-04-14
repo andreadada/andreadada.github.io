@@ -14,7 +14,6 @@ A Layout is composed of recipe-slots, levels and build sections.
 
 | Parameter    | Type                                                                                       | Description                                                                    | Required | Default |
 |:-------------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|:---------|:-------:|
-| recipe-slots | [RecipeSlotLayout]({{site.baseurl}}/docs/wiki/structory/structures/recipeslotlayout.html). | Define recipe slots of the structure, if you want to make a crafting structure | false    |  empty  |
 | levels       | Set of [Levels]({{site.baseurl}}/docs/wiki/structory/structures/level.html).               | A level is a scheme block with fixed Y offset from structure center.           | false    |  empty  |
 | build        | Set of [Builders]({{site.baseurl}}/docs/wiki/structory/structures/builder.html).           | The name says it all, place or destroy blocks when a structure is activated    | false    |  empty  |
 
