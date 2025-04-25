@@ -15,14 +15,16 @@ Different from older version, now, the recipe slot layout must be set in this se
 
 
 
-| Parameter    | Type                                                                                       | Description                                                                    | Optional |
-|:-------------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|:---------|
-| recipe-slots | [RecipeSlotLayout]({{site.baseurl}}/docs/wiki/structory/structures/recipeslotlayout.html). | Define recipe slots of the structure, if you want to make a crafting structure | false    |
-| insert       | RecipeDecoration                                                                           | When you insert an item in the structure.                                      | true     |
-| place        | RecipeDecoration                                                                           | When you place (right click on a recipe slot) an item in the structure.        | true     |
-| take         | RecipeDecoration                                                                           | When you take (right click on a recipe slot) an item from the structure.       | true     |
-| consume      | RecipeDecoration                                                                           | When an ingredient is consumed while crafting                                  | true     |
-| result       | RecipeDecoration                                                                           | When the item is prepared                                                      | true     |
+| Parameter     | Type                                                                                       | Description                                                                                                                              | Optional |
+|:--------------|:-------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|:---------|
+| recipe-slots  | [RecipeSlotLayout]({{site.baseurl}}/docs/wiki/structory/structures/recipeslotlayout.html). | Define recipe slots of the structure, if you want to make a crafting structure                                                           | false    |
+| insert        | RecipeDecoration                                                                           | When you insert an item in the structure.                                                                                                | true     |
+| place         | RecipeDecoration                                                                           | When you place (right click on a recipe slot) an item in the structure.                                                                  | true     |
+| take          | RecipeDecoration                                                                           | When you take (right click on a recipe slot) an item from the structure.                                                                 | true     |
+| consume       | RecipeDecoration                                                                           | When an ingredient is consumed while crafting                                                                                            | true     |
+| result        | RecipeDecoration                                                                           | When the item is prepared                                                                                                                | true     |
+| recipes       | Set of Strings                                                                             | Add any recipe here that this structure is capable of crafting.                                                                          | true     |
+| recipe-group  | Set of Strings                                                                             | Add any recipe group here that this structure is capable of crafting. By default, if nothing is specified, it automatically adds DEFAULT | true     |
 
 
 
