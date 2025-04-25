@@ -14,3 +14,5 @@ nav_order: 6
 
 ### Performance
 * Crafting system should be faster now when it can find deterministic indexes.  An example of deterministic index for an ingredient is 'material'
+
+## There is no older changelogs at the moment
