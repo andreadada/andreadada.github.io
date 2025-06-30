@@ -39,7 +39,7 @@ A checker define the layout, blocks locations and material to compare.
 ```yaml
 checkers:
   types:
-    X: BLACKSTONE_WALL
+    X: BLACKSTONE_WALL 
     C: CAULDRON
     Z:
       type: whitelist
