@@ -32,12 +32,15 @@ Built-In placeholders - %key% = result
 
 
 
-| Key          |      Result      |
-|:-------------|:----------------:|
-| player       |  player's name   |
-| playeruuid   |  player's uuid   |
-| structure    | structure's name |
-| instanceuuid | instance's uuid  |
+| Key          |           Result           |
+|:-------------|:--------------------------:|
+| player       |       player's name        |
+| playeruuid   |       player's uuid        |
+| structure    |      structure's name      |
+| instanceuuid |      instance's uuid       |
+| center_x     | x of the instance's center |
+| center_y     | y of the instance's center |
+| center_z     | z of the instance's center |
 
 example:
 ```yaml
