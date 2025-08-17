@@ -6,6 +6,19 @@ grand_parent: Structory
 nav_order: 6.1
 ---
 
+## Release 1.1.0
+
+### New Features
+* Follow up Structory 1.1.4 - FREE
+
+* Add BagOption (See examples on arise recipe and forgery structure)
+*   -  Add Bag Ingredient
+
+* New Parameter system for Ingredients and Results
+
+### Fixes
+* If you set a RecipeSlot in the main block now you can access it by shifting
+
 ## Release 1.0.1
 
 ### New Features
