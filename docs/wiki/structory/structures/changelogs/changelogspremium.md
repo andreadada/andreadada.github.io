@@ -11,9 +11,10 @@ nav_order: 6.1
 > ### New Features
 > * Follow up Structory 1.1.4 - FREE
 >
-> * Add BagOption (See examples on arise recipe and forgery structure)
-> *     Add Bag Ingredient
->
+> * Add BagOption (See examples on arise recipe and forgery structure)  dd Bag Ingredient
+> 
+> * Add Summon Result
+> * 
 > * New Parameter system for Ingredients and Results
 >
 > ### Fixes
