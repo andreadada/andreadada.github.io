@@ -6,6 +6,24 @@ grand_parent: Structory
 nav_order: 6.1
 ---
 
+> ## Release 1.2.0
+>
+> ### New Features
+> * Follow up Structory 1.1.5 - FREE
+>
+> * Implemented compatibility for Craft Engine
+> 
+> * New Animation system for crafting (3 by default, more coming up), every Ingredient now <br>can be crafted sequentially and can have configured particles
+> 
+> * New commnad /structory layout item to make held item magic <br> and /structory layout create to get layout configuration from region created
+> 
+> ### Fixes & Misc
+> * If you set a RecipeSlot in the main block now you can access it by shifting
+> * Works on 1.21.8
+> * Moved particles settings (from crafting option) inside of particle option
+> * Changed recipe discover system.
+> * Minor code improvement
+
 > ## Release 1.1.0
 >
 > ### New Features
@@ -17,7 +35,7 @@ nav_order: 6.1
 > * 
 > * New Parameter system for Ingredients and Results
 >
-> ### Fixes
+> ### Fixes & Misc
 > * If you set a RecipeSlot in the main block now you can access it by shifting
 
 > ## Release 1.0.1
